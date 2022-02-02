@@ -131,145 +131,145 @@ Week 8 - Build Automation & CI/CD with Jenkins
  - Dynamically Increment Application version in Jenkins Pipeline - Part 2
 
 Week 9 - AWS Services
- - Introduction to AWS (6:06)
- - Create an AWS account (2:55)
- - IAM - Manage Users, Roles and Permissions (16:05)
- - Regions & Availability Zones (4:38)
- - VPC - Manage Private Network on AWS (12:44)
- - CIDR Blocks explained (6:43)
- - Introduction to EC2 Virtual Cloud Server (35:08)
-- Deploy to EC2 server from Jenkins Pipeline - CI/CD Part 1 (26:28)
-- Deploy to EC2 server from Jenkins Pipeline - CI/CD Part 2 (28:03)
- - Deploy to EC2 server from Jenkins Pipeline - CI/CD Part 3 (8:39)
- - Introduction to AWS CLI (61:00)
- - AWS & Terraform Preview (2:39)
- - Container Services on AWS Preview (1:23)
+ - Introduction to AWS 
+ - Create an AWS account 
+ - IAM - Manage Users, Roles and Permissions 
+ - Regions & Availability Zones 
+ - VPC - Manage Private Network on AWS 
+ - CIDR Blocks explained 
+ - Introduction to EC2 Virtual Cloud Server 
+- Deploy to EC2 server from Jenkins Pipeline - CI/CD Part 1 
+- Deploy to EC2 server from Jenkins Pipeline - CI/CD Part 2 
+ - Deploy to EC2 server from Jenkins Pipeline - CI/CD Part 3 
+ - Introduction to AWS CLI 
+ - AWS & Terraform Preview 
+ - Container Services on AWS Preview 
 
 Week 10 - Container Orchestration with Kubernetes
- - Intro to Kubernetes (2:49)
- - Main Kubernetes Components (17:29)
- - Kubernetes Architecture (12:38)
- - Minikube and kubectl - Local Kubernetes Cluster (9:39)
- - Main kubectl commands (17:01)
- - YAML Configuration File (14:13)
- - Complete Demo Project - Deploying Application in Kubernetes Cluster (29:35)
- - Namespaces - Organizing Components (15:35)
- - Services - Connecting to Applications inside cluster (23:05)
- - Ingress - Connecting to Applications outside cluster (22:27)
- - Volumes - Persisting Application Data (20:26)
- - ConfigMap & Secret Volume Types (16:26)
- - StatefulSet - Deploying Stateful Applications (15:09)
- - Managed Kubernetes Services Explained (14:45)
- - Helm - Package Manager for Kubernetes (13:44)
- - Helm Demo - Managed K8s cluster (29:17)
- - Deploying Images in Kubernetes from private Docker repository (21:18)
- - Kubernetes Operators for Managing Complex Applications (9:39)
- - Helm and Operator Demo (24:36)
- - Secure your cluster - Authorization with RBAC (15:45)
- - Microservices in Kubernetes (7:04)
- - Demo project: Deploy Microservices Application (35:01)
- - Production & Security Best Practices (35:09)
- - Demo project: Create Helm Chart for Microservices (44:04)
- - Demo project: Deploy Microservices with Helmfile (16:19)
+ - Intro to Kubernetes 
+ - Main Kubernetes Components 
+ - Kubernetes Architecture 
+ - Minikube and kubectl - Local Kubernetes Cluster 
+ - Main kubectl commands 
+ - YAML Configuration File 
+ - Complete Demo Project - Deploying Application in Kubernetes Cluster 
+ - Namespaces - Organizing Components 
+ - Services - Connecting to Applications inside cluster 
+ - Ingress - Connecting to Applications outside cluster 
+ - Volumes - Persisting Application Data 
+ - ConfigMap & Secret Volume Types 
+ - StatefulSet - Deploying Stateful Applications 
+ - Managed Kubernetes Services Explained 
+ - Helm - Package Manager for Kubernetes 
+ - Helm Demo - Managed K8s cluster 
+ - Deploying Images in Kubernetes from private Docker repository 
+ - Kubernetes Operators for Managing Complex Applications 
+ - Helm and Operator Demo 
+ - Secure your cluster - Authorization with RBAC 
+ - Microservices in Kubernetes 
+ - Demo project: Deploy Microservices Application 
+ - Production & Security Best Practices 
+ - Demo project: Create Helm Chart for Microservices 
+ - Demo project: Deploy Microservices with Helmfile 
 
 Week 11 - Kubernetes on AWS - EKS
- - Container Services on AWS (28:15)
- - Create EKS cluster with AWS Management Console (55:51)
- - Configure Autoscaling in EKS cluster (35:08)
- - Create Fargate Profile for EKS Cluster (25:47)
- - Create EKS cluster with eksctl command line tool (17:17)
- - Deploy to EKS Cluster from Jenkins Pipeline (26:09)
- - BONUS: Deploy to LKE Cluster from Jenkins Pipeline (14:15)
- - Jenkins Credentials Note on Best Practices (2:36)
- - Complete CI/CD Pipeline with EKS and DockerHub (22:35)
- - Complete CI/CD Pipeline with EKS and ECR (19:08)
+ - Container Services on AWS 
+ - Create EKS cluster with AWS Management Console
+ - Configure Autoscaling in EKS cluster 
+ - Create Fargate Profile for EKS Cluster 
+ - Create EKS cluster with eksctl command line tool 
+ - Deploy to EKS Cluster from Jenkins Pipeline 
+ - BONUS: Deploy to LKE Cluster from Jenkins Pipeline 
+ - Jenkins Credentials Note on Best Practices 
+ - Complete CI/CD Pipeline with EKS and DockerHub 
+ - Complete CI/CD Pipeline with EKS and ECR 
 
 Week 12 - Infrastructure as Code with Terraform
- - Introduction to Terraform (18:26)
-- Install Terraform & Setup Terraform Project (3:46)
-- Providers in Terraform (16:39)
-- Resources & Data Sources (23:40)
-- Change & Destroy Terraform Resources (9:49)
-- Terraform commands (4:10)
-- Terraform State (8:31)
- - Output Values (5:05)
- - Variables in Terraform (22:38)
- - Environment Variables in Terraform (9:57)
- - Create Git Repository for local Terraform Project (6:43)
- - Automate Provisioning EC2 with Terraform - Part 1 (51:22)
- - Automate Provisioning EC2 with Terraform - Part 2 (44:21)
- - Automate Provisioning EC2 with Terraform - Part 3 (17:09)
- - Provisioners in Terraform (21:37)
- - Modules in Terraform - Part 1 (9:20)
- - Modules in Terraform - Part 2 (30:09)
- - Modules in Terraform - Part 3 (21:25)
- - Automate Provisioning EKS cluster with Terraform - Part 1 (30:33)
- - Automate Provisioning EKS cluster with Terraform - Part 2 (24:38)
- - Automate Provisioning EKS cluster with Terraform - Part 3 (16:50)
- - Complete CI/CD with Terraform - Part 1 (6:09)
- - Complete CI/CD with Terraform - Part 2 (32:24)
- - Complete CI/CD with Terraform - Part 3 (21:12)
- - Remote State in Terraform (10:22)
+ - Introduction to Terraform 
+- Install Terraform & Setup Terraform Project 
+- Providers in Terraform 
+- Resources & Data Sources 
+- Change & Destroy Terraform Resources 
+- Terraform commands
+- Terraform State 
+ - Output Values 
+ - Variables in Terraform 
+ - Environment Variables in Terraform 
+ - Create Git Repository for local Terraform Project
+ - Automate Provisioning EC2 with Terraform - Part 1 
+ - Automate Provisioning EC2 with Terraform - Part 2 
+ - Automate Provisioning EC2 with Terraform - Part 3 
+ - Provisioners in Terraform 
+ - Modules in Terraform - Part 1 
+ - Modules in Terraform - Part 2 
+ - Modules in Terraform - Part 3 
+ - Automate Provisioning EKS cluster with Terraform - Part 1 
+ - Automate Provisioning EKS cluster with Terraform - Part 2 
+ - Automate Provisioning EKS cluster with Terraform - Part 3 
+ - Complete CI/CD with Terraform - Part 1
+ - Complete CI/CD with Terraform - Part 2 
+ - Complete CI/CD with Terraform - Part 3 
+ - Remote State in Terraform 
 
 Week 13 - Programming Basics with Python
-- Introduction to Python (7:08)
- - Installation and Local Setup (6:12)
-- Our first Python Program (1:23)
-- Python IDE vs Simple File Editor (3:29)
- - Strings and Number Data Types (11:06)
-- Variables (9:21)
-- Functions (20:17)
-- Accepting User Input (15:38)
-- Conditionals (if / else) and Boolean Data Type (28:49)
- - Error Handling with Try-Except (5:53)
- - While Loops (12:32)
- - Lists and For Loops (19:08)
- - Comments (4:06)
- - Sets (11:07)
- - Built-In Functions (5:54)
- - Dictionary Data Type (17:07)
- - Modules (18:37)
- - Project: Countdown App (20:18)
- - Packages, PyPI and pip (9:43)
- - Project: Automation with Python (Spreadsheet) (49:55)
- - OOP: Classes and Objects (30:33)
- - Project: API Request to GitLab (15:47)
+- Introduction to Python 
+ - Installation and Local Setup 
+- Our first Python Program 
+- Python IDE vs Simple File Editor 
+ - Strings and Number Data Types 
+- Variables 
+- Functions 
+- Accepting User Input 
+- Conditionals (if / else) and Boolean Data Type 
+ - Error Handling with Try-Except 
+ - While Loops 
+ - Lists and For Loops 
+ - Comments 
+ - Sets 
+ - Built-In Functions 
+ - Dictionary Data Type 
+ - Modules 
+ - Project: Countdown App 
+ - Packages, PyPI and pip 
+ - Project: Automation with Python (Spreadsheet) 
+ - OOP: Classes and Objects 
+ - Project: API Request to GitLab 
 
 Week 14 - Automation with Python
- - Introduction to Boto Library (AWS SDK for Python) (2:38)
- - Install Boto3 and connect to AWS (3:02)
- - Getting familiar with Boto (28:54)
- - Terraform vs Python - understand when to use which tool (9:11)
- - Health Check: EC2 Status Checks (25:39)
- - Write a Scheduled Task in Python (9:28)
- - Configure Server: Add Environment Tags to EC2 Instances (14:19)
- - EKS cluster information (13:20)
-- Backup EC2 Volumes: Automate creating Snapshots (20:17)
- - Automate cleanup of old Snapshots (23:30)
- - Automate restoring EC2 Volume from the Backup (21:56)
- - Handling Errors (4:08)
- - Website Monitoring 1: Scheduled Task to Monitor Application Health (14:57)
- - Website Monitoring 2: Automated Email Notification (32:34)
- - Website Monitoring 3: Restart Application and Reboot Server (35:22)
+ - Introduction to Boto Library (AWS SDK for Python) 
+ - Install Boto3 and connect to AWS 
+ - Getting familiar with Boto 
+ - Terraform vs Python - understand when to use which tool
+ - Health Check: EC2 Status Checks 
+ - Write a Scheduled Task in Python 
+ - Configure Server: Add Environment Tags to EC2 Instances 
+ - EKS cluster information 
+- Backup EC2 Volumes: Automate creating Snapshots 
+ - Automate cleanup of old Snapshots 
+ - Automate restoring EC2 Volume from the Backup 
+ - Handling Errors 
+ - Website Monitoring 1: Scheduled Task to Monitor Application Health 
+ - Website Monitoring 2: Automated Email Notification 
+ - Website Monitoring 3: Restart Application and Reboot Server 
 
 Week 15 - Configuration Management with Ansible
- - Introduction to Ansible (15:46)
- - Install Ansible (3:25)
- - Setup Managed Server to Configure with Ansible (2:37)
- - Ansible Inventory and Ansible ad-hoc commands (11:10)
- - Configure AWS EC2 server with Ansible (7:52)
- - Managing Host Key Checking and SSH keys (15:16)
- - Introduction to Playbooks (16:31)
- - Ansible Modules (5:28)
- - Collections in Ansible (11:37)
- - Project: Deploy Nodejs application - Part 1 (17:46)
- - Project: Deploy Nodejs application - Part 2 (17:42)
- - Project: Deploy Nodejs application - Part 3 (7:28)
- - Ansible Variables - make your Playbook customizable (19:28)
- - Project Deploy Nexus - Part 1 (28:31)
- - Project Deploy Nexus - Part 2 (28:02)
- - Ansible Configuration - Default Inventory File (3:27)
- - Project: Run Docker applications - Part 1 (38:13)
+ - Introduction to Ansible 
+ - Install Ansible
+ - Setup Managed Server to Configure with Ansible 
+ - Ansible Inventory and Ansible ad-hoc commands 
+ - Configure AWS EC2 server with Ansible 
+ - Managing Host Key Checking and SSH keys 
+ - Introduction to Playbooks 
+ - Ansible Modules 
+ - Collections in Ansible 
+ - Project: Deploy Nodejs application - Part 1 
+ - Project: Deploy Nodejs application - Part 2 
+ - Project: Deploy Nodejs application - Part 3 
+ - Ansible Variables - make your Playbook customizable 
+ - Project Deploy Nexus - Part 1 
+ - Project Deploy Nexus - Part 2 
+ - Ansible Configuration - Default Inventory File
+ - Project: Run Docker applications - Part 1 
  - Project: Run Docker applications - Part 2
  - Project: Terraform & Ansible
  - Dynamic Inventory for EC2 Servers
