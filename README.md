@@ -5,7 +5,7 @@
 > The recommended schedule to completion is 6 months, 10-15 hours/week. Currently I am dedicating ~40 hours/week, trying to be more comprehensive on all sujects. Bootcamp ETC is end of April 2022
 ***
 #### Personal hardware/software Setup:
-Laptop 1 (simulating a Linux server for remote access)
+Laptop 1 (simulating a Linux server -Git local repository- and remote access)
 - vendor: LENOVO
 - version: ThinkPad T420
 - product: Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz
