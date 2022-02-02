@@ -2,7 +2,7 @@
 ### Introduction 
 > The objective of this repository is to document the progress and put in practice all the concepts learned in the DevOps Bootcamp I am currently enrolled. 
 > [DevOps Bootcamp from TechWorld](https://www.techworld-with-nana.com/devops-bootcamp). 
-> The recommended schedule to completion is 6 months, 10-15 hours/week. Currently I am dedicating ~40 hours/week, trying to be more comprehensive on all sujects.
+> The recommended schedule to completion is 6 months, 10-15 hours/week. Currently I am dedicating ~40 hours/week, trying to be more comprehensive on all sujects. Bootcamp ETC is end of April 2022
 ***
 #### Personal hardware/software Setup:
 Laptop 1
