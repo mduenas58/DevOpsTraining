@@ -5,7 +5,7 @@
 > The recommended schedule to completion is 6 months, 10-15 hours/week. Currently I am dedicating ~40 hours/week, trying to be more comprehensive on all sujects. Bootcamp ETC is end of April 2022
 ***
 #### Personal hardware/software Setup:
-Laptop 1
+Laptop 1 (simulating a Linux server for remote access)
 - vendor: LENOVO
 - version: ThinkPad T420
 - product: Intel(R) Core(TM) i5-2520M CPU @ 2.50GHz
@@ -14,13 +14,13 @@ Laptop 1
 - OS: Ubuntu 20.04.1
 
 Desktop 2
-- vendor: Apple
+- vendor: Apple (for daily development and remote access (SSH) to the Linux 'server')
 - version: iMac (21.5-inch)
 - Processor: 2.7 GHz Quad-core Intel Core i5
 - Memory: 8GB 1600 MHz DDR3
 - OS: MacOS Catalina v. 10.15.7
 ***
-### Bootcamp Curriculum - Located at [DevOps Bootcamp Curriculum](https://www.techworld-with-nana.com/devops-bootcamp).
+### Curriculum - [Techworld DevOps Bootcamp](https://www.techworld-with-nana.com/devops-bootcamp).
 Week 1 - Introduction to DevOps
  - Introduction to DevOps
 
