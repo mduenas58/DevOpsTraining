@@ -13,8 +13,8 @@ Laptop 1 (simulating a Linux server -Git local repository- and remote access)
 - memory: 16GB 1333 MHz DDR3
 - OS: Ubuntu 20.04.1
 
-Desktop 2
-- vendor: Apple (for daily development and remote access (SSH) to the Linux 'server')
+Desktop 2 (for daily development and remote access (SSH) to the Linux 'server')
+- vendor: Apple
 - version: iMac (21.5-inch)
 - Processor: 2.7 GHz Quad-core Intel Core i5
 - Memory: 8GB 1600 MHz DDR3
