@@ -1,4 +1,4 @@
-# DevOpsTraining
+# DevOps Bootcamp
 ### Introduction 
 > The objective of this repository is to document the progress and put in practice all the concepts learned in the DevOps Bootcamp I am currently enrolled. 
 > [DevOps Bootcamp from TechWorld](https://www.techworld-with-nana.com/devops-bootcamp). 
