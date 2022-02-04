@@ -1,4 +1,3 @@
-What is DevOps?
-What is DevOps?
-AWS Definition: 
-(https://aws.amazon.com/devops/what-is-devops/)
+<p>What is DevOps?</p>
+<p>AWS Definition:</p> 
+https://aws.amazon.com/devops/what-is-devops/
