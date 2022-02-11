@@ -7,6 +7,7 @@ Overview: The object of this project is to complete a fully funtional containerz
 Note: (Steps are going to be determined by the learning process workflow)
 
 Step One: Install Docker on a local machine running Ubuntu 20.04, and get familiar with the following concepts:
+- binaries will be located at the code folder
 - Docker images
 - Docker containers
 - Docker CLI commands:
