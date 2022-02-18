@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-18T17:53:17.006Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="7XCUr21i5rQ0_i2eCk1a" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-18T17:57:55.290Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.87 Safari/537.36" etag="fnN0JgEqR_CPQ4EugwUY" version="14.7.7" type="github">
   <diagram name="Page-1" id="ad52d381-51e7-2e0d-a935-2d0ddd2fd229">
     <mxGraphModel dx="1310" dy="750" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -10,7 +10,7 @@
         <mxCell id="2c924340bb9dbf6c-3" value="&lt;span&gt;Git&lt;br&gt;Github - Gitlab&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="210" y="110" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="2c924340bb9dbf6c-4" value="Kubernetes&lt;br&gt;v.1.23" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
+        <mxCell id="2c924340bb9dbf6c-4" value="DevOps" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="530" y="260" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="2c924340bb9dbf6c-5" value="&lt;span&gt;Containers&amp;nbsp;&lt;br&gt;Docker&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
@@ -96,6 +96,24 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="850" y="240" as="sourcePoint" />
             <mxPoint x="944.2915813552931" y="145.70841864470685" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MCjd9_6C9-BBtUOJvF77-4" value="&lt;span&gt;Containers&lt;br&gt;Orchestration&lt;br&gt;Kubernetes&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="870" y="230" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MCjd9_6C9-BBtUOJvF77-5" value="relation" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="2c924340bb9dbf6c-4" target="MCjd9_6C9-BBtUOJvF77-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="770" y="290" as="sourcePoint" />
+            <mxPoint x="1013.3716393801217" y="174.01651191602969" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MCjd9_6C9-BBtUOJvF77-6" value="&lt;span&gt;AWS&lt;br&gt;Services&lt;br&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;shadow=1;comic=0;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;" vertex="1" parent="1">
+          <mxGeometry x="870" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MCjd9_6C9-BBtUOJvF77-7" value="relation" style="edgeStyle=none;rounded=1;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeColor=#B3B3B3;strokeWidth=1;fontFamily=Verdana;fontSize=12;entryX=-0.008;entryY=0.363;entryDx=0;entryDy=0;exitX=0.975;exitY=0.692;exitDx=0;exitDy=0;exitPerimeter=0;entryPerimeter=0;" edge="1" parent="1" source="2c924340bb9dbf6c-4" target="MCjd9_6C9-BBtUOJvF77-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="760" y="370" as="sourcePoint" />
+            <mxPoint x="980" y="320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
