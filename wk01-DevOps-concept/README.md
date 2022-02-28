@@ -42,3 +42,7 @@ classDiagram
       EC2
       create Instance
     }
+
+List of tools:
+- Git
+- Nexus
